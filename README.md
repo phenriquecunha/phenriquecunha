@@ -10,7 +10,7 @@ class DEV {
  const acknowledgements = "SOFTWARE DEVELOPMENT (BACKEND)"
  
  const languages = ["Java", "Python", "JavaScript", "Typescript", "C", "C++", "C#"] 
- const techs = ["NodeJS", "Express", "ReactJS", "MySQL", "Postgresql", "Spring Boot"]
+ const techs = ["NodeJS", "Express", "React", "MySQL", "Postgresql", "Spring Boot", "Angular"]
 }
 ```
 
